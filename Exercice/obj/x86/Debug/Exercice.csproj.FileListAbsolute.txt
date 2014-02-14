@@ -1,0 +1,5 @@
+c:\users\corentin\documents\visual studio 2010\Projects\Exercice\Exercice\bin\Debug\Exercice.exe
+c:\users\corentin\documents\visual studio 2010\Projects\Exercice\Exercice\bin\Debug\Exercice.pdb
+c:\users\corentin\documents\visual studio 2010\Projects\Exercice\Exercice\obj\x86\Debug\Exercice.exe
+c:\users\corentin\documents\visual studio 2010\Projects\Exercice\Exercice\obj\x86\Debug\Exercice.pdb
+C:\Users\Corentin\documents\visual studio 2010\Projects\Exercice\Exercice\obj\x86\Debug\Exercice.csprojResolveAssemblyReference.cache
